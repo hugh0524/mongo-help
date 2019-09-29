@@ -1,0 +1,10 @@
+{
+    "mongo": {
+        "servername": "127.0.0.1",
+        "DATABASE": "test",
+        "port": 27017,
+        "user": "",
+        "pass": "",
+        "authSource": "test"
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "mongo-help",
+  "version": "1.0.0",
+  "description": "mongo查询及统计案例",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugh0524/mongo-help.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugh0524/mongo-help/issues"
+  },
+  "homepage": "https://github.com/hugh0524/mongo-help#readme",
+  "dependencies": {
+    "mongoose": "^5.7.1",
+    "mongoose-auto-increment": "^5.0.1"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
