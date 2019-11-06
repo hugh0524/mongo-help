@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/hugh0524/mongo-help#readme",
   "dependencies": {
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "mongoose-auto-increment": "^5.0.1"
   },
   "devDependencies": {
